@@ -42,6 +42,4 @@ Ingeniería De Ejecución En Informática Mención Desarrollo De Sistemas, 2018
 
 - Correo: [cbuguenomella@gmail.com](mailto:cbuguenomella@gmail.com)
 - Sitio web personal: [cesarbuguenomella.dev](https://cesarbuguenomella.dev)
-- Teléfono: +56923744676
-- Instagram: [@cesarbuguenomella.dev](https://www.instagram.com/cesarbuguenomella.dev)
-- Facebook: [@cesarbuguenomelladev](https://www.facebook.com/cesarbuguenomelladev)
+- Teléfono: +56971604101
